@@ -1,0 +1,11 @@
+name: coding-challenge-python-1
+dependencies:
+  - python==3.6
+  - pip:
+    - pybuilder==0.11.17
+ #   - bumpversion==0.5.3
+ #   - boto3==1.7.10
+ #   - requests
+ #   - bs4
+ #   - lxml
+ #   - pymongo==3.6.1
