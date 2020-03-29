@@ -1,0 +1,20 @@
+.HomePage {
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    padding: 60px 60px;
+    align-items: stretch;
+}
+
+.graph {
+    margin: 20px 40px;
+    width: 600px;
+    height: 400px;   
+}
+
+.button1 {
+    width: 200px;
+    height: 50px;
+    font-size: 1.1rem;
+    margin-top: 20px;
+}
